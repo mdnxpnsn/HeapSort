@@ -19,6 +19,5 @@ int main(int argc, char* argv[])
     for(int i = 0; i < size; ++i) {
     	std::cout << B[i] << std::endl;
     }
-    std::cout << "done bro" << std::endl;
 	return 0;
 }
